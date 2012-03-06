@@ -1,0 +1,10 @@
+name: CustomSilverfish
+main: me.tambilin.customsilverfish.CustomSilverfish
+version: 1.4
+description: >
+             Plugin For Customising Silverfish Spawning From Blocks!
+commands:
+permissions:
+    customsilverfish-spawn.allow:
+        description: Players Encounter Customised Block Silverfish Spawning!
+        default: false
